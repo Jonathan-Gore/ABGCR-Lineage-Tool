@@ -1,5 +1,5 @@
 ## ABGCR Lineage Tool
-A Python-based project for visualizing family and clone relationships within a collection of biological specimens, using data from a CSV file.
+A Python-based project for visualizing family and clone relationships within a collection of biological specimens, using data from a CSV file. (Plant Identifiers stripped out for example graph)
 
 ![lineage map](https://github.com/Jonathan-Gore/ABGCR-Lineage-Tool/blob/main/output.png)
 
